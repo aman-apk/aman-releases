@@ -1,5 +1,5 @@
 {
-  "lastId": 1,
+  "lastId": 2,
   "announcements": [
     {
       "id": 1,
@@ -7,6 +7,15 @@
       "bodyAr": "ميزة جديدة تجريبية",
       "titleEn": "new feature in the store",
       "bodyEn": "new test feature",
+      "url": "",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "id": 2,
+      "titleAr": "ميزة جديدة",
+      "bodyAr": "تحديث جديد في بعض التطبيقات",
+      "titleEn": "",
+      "bodyEn": "",
       "url": "",
       "sentAt": "2026-08-24"
     }
