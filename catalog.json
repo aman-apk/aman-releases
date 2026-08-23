@@ -9,16 +9,16 @@
     "apps":  [
                  {
                      "packageName":  "org.amanlabs.store",
-                     "nameAr":  "متجر أمان — خصوصيتك أولًا",
+                     "nameAr":  "متجر أمان — خصوصيتك أولاً",
                      "nameEn":  "Aman Store — Privacy First",
                      "summaryAr":  "يجلب تطبيقات العائلة ويحدّثها، ويفحص كل حزمة قبل تثبيتها",
                      "summaryEn":  "Installs and updates the family, checking every package",
-                     "versionName":  "1.12.0",
-                     "versionCode":  37,
+                     "versionName":  "1.13.0",
+                     "versionCode":  38,
                      "minSdk":  24,
-                     "sizeBytes":  1778489,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.12.0.apk",
-                     "sha256":  "871e2433affad3ba010b340a8a6d9acccde1569c262f534e624de3c3460bf90e",
+                     "sizeBytes":  1778957,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.13.0.apk",
+                     "sha256":  "46443b4cab91f627453e37c2181b1a9759cd83f5177347a59a78833e5566d56b",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -44,7 +44,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  1,
+                     "index":  5,
                      "accentHex":  "#3FC0C4"
                  },
                  {
@@ -64,7 +64,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  2,
+                     "index":  7,
                      "accentHex":  "#97C98B"
                  },
                  {
@@ -84,7 +84,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  3,
+                     "index":  2,
                      "accentHex":  "#7C89CF"
                  },
                  {
@@ -104,7 +104,7 @@
                      "flavor":  "",
                      "discreet":  true,
                      "postInstallHint":  "",
-                     "index":  4,
+                     "index":  10,
                      "accentHex":  "#D97C93"
                  },
                  {
@@ -113,18 +113,18 @@
                      "nameEn":  "KalamBoard — Private, Secure Keyboard",
                      "summaryAr":  "كيبورد يتعلّم كلماتك ويتسامح مع أخطائك",
                      "summaryEn":  "Learns your words, forgives typos",
-                     "versionName":  "1.3.1",
-                     "versionCode":  15,
+                     "versionName":  "1.3.2",
+                     "versionCode":  16,
                      "minSdk":  26,
                      "sizeBytes":  12159562,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/KalamBoard-1.3.1.apk",
-                     "sha256":  "00bbfe9d7d0180e472757866af0541d920e6e38518fb6364cc5dcc79ea966c4c",
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/KalamBoard-1.3.2.apk",
+                     "sha256":  "42f708ebbaa89713eb68d01d1f7ecb13f6ff904b8e570eb853c7f5eb2fdaa900",
                      "signerSha256":  "f1198e0608e7997a604f784ff8c83a788863b60033c38ce8b050c6df9577c9bb",
                      "changelogAr":  "",
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "ime",
-                     "index":  5,
+                     "index":  1,
                      "accentHex":  "#E0A32E"
                  },
                  {
@@ -144,14 +144,14 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  6,
+                     "index":  9,
                      "accentHex":  "#9D85C4"
                  },
                  {
                      "packageName":  "org.amanlabs.hisn",
                      "nameAr":  "حصن — مدير كلمات المرور",
                      "nameEn":  "Hisn — Password Manager",
-                     "summaryAr":  "يحفظ كلمات مرورك ويعبّئها تلقائيًا، ويزامنها مع حاسوبك",
+                     "summaryAr":  "يحفظ كلمات مرورك ويعبّئها تلقائياً، ويزامنها مع حاسوبك",
                      "summaryEn":  "Autofill, one-time codes, local sync with your computer",
                      "versionName":  "0.2.4",
                      "versionCode":  6,
@@ -164,7 +164,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  7,
+                     "index":  8,
                      "accentHex":  "#C4764E"
                  },
                  {
@@ -184,7 +184,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  8,
+                     "index":  6,
                      "accentHex":  "#7A4A72"
                  },
                  {
@@ -204,8 +204,25 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  9,
-                     "accentHex":  "#2A6FB0"
+                     "index":  4,
+                     "accentHex":  "#2A6FB0",
+                     "abiApks":  {
+                                     "arm64-v8a":  {
+                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.0-arm64-v8a.apk",
+                                                       "sha256":  "37a28c4aa5d927b7f79d36f781b4063bc2fb78cf7e6f7c27d49ae75ca882a71c",
+                                                       "sizeBytes":  36236829
+                                                   },
+                                     "armeabi-v7a":  {
+                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.0-armeabi-v7a.apk",
+                                                         "sha256":  "73616858a848c5bc5e869b70618b5a5146de0bf82a3b84ef49084397ebabb718",
+                                                         "sizeBytes":  30725135
+                                                     },
+                                     "x86_64":  {
+                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.0-x86_64.apk",
+                                                    "sha256":  "44e042487bedc8fe06b58c61b8977659ab394dce8ff28bdbc0de197daeb10880",
+                                                    "sizeBytes":  39015870
+                                                }
+                                 }
                  },
                  {
                      "packageName":  "org.amanlabs.jisr",
@@ -213,19 +230,36 @@
                      "nameEn":  "Jisr — Local File Transfer",
                      "summaryAr":  "انقل ملفاتك بين أجهزتك عبر شبكتك وحدها — بلا خادم ولا سحابة",
                      "summaryEn":  "Move files between your devices over your own network — no server, no cloud",
-                     "versionName":  "0.2.0",
-                     "versionCode":  2,
+                     "versionName":  "0.2.1",
+                     "versionCode":  3,
                      "minSdk":  21,
-                     "sizeBytes":  97282777,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.0.apk",
-                     "sha256":  "870f58b6b8e70aeabe469a334d5de741c5837d53dadca3e521d02e6bb0fd8570",
+                     "sizeBytes":  97282761,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.1.apk",
+                     "sha256":  "e9eaee09631d354fa1dc57798380bf114d1960d2a423c79192ff82ead313fb80",
                      "signerSha256":  "262ab08c3616f8621271eedb04c986a5cd11c0789d5dde66d397ad70b940bea8",
                      "changelogAr":  "",
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  10,
-                     "accentHex":  "#4A3FA8"
+                     "index":  3,
+                     "accentHex":  "#4A3FA8",
+                     "abiApks":  {
+                                     "arm64-v8a":  {
+                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.1-arm64-v8a.apk",
+                                                       "sha256":  "8967c2cd2367a4e9d946afb425a21a99f0a45af6a3d28572bc0e053319d403cc",
+                                                       "sizeBytes":  36611696
+                                                   },
+                                     "armeabi-v7a":  {
+                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.1-armeabi-v7a.apk",
+                                                         "sha256":  "fdfc7735a123bc9bb27054bb0a79e40e09cb44c00f43a10947b4684c3f6ba821",
+                                                         "sizeBytes":  33218782
+                                                     },
+                                     "x86_64":  {
+                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.1-x86_64.apk",
+                                                    "sha256":  "7e9053f979c3b35b8c101d430da2db7060e8390239f69038c830ed2f5856c783",
+                                                    "sizeBytes":  38839915
+                                                }
+                                 }
                  }
              ]
 }
