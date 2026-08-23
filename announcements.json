@@ -1,3 +1,14 @@
 {
-  "announcements": []
+  "lastId": 1,
+  "announcements": [
+    {
+      "id": 1,
+      "titleAr": "ميزة جديدة في المتجر",
+      "bodyAr": "ميزة جديدة تجريبية",
+      "titleEn": "new feature in the store",
+      "bodyEn": "new test feature",
+      "url": "",
+      "sentAt": "2026-08-24"
+    }
+  ]
 }
