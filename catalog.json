@@ -30,9 +30,9 @@
                      "versionName":  "1.23.0",
                      "versionCode":  51,
                      "minSdk":  24,
-                     "sizeBytes":  1895497,
+                     "sizeBytes":  1895477,
                      "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.23.0.apk",
-                     "sha256":  "17f9643211726cb21623d909ba9cedc30c28957794a892e1ef4a67e85ed60fcd",
+                     "sha256":  "c49facbff66091018561a65d9074729d6d776d92209fb9b27479e6484c81f14a",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -216,12 +216,12 @@
                                         "Photo editor",
                                         "Encrypted vault for private photos"
                                     ],
-                     "versionName":  "0.2.3",
-                     "versionCode":  5,
+                     "versionName":  "0.2.4",
+                     "versionCode":  6,
                      "minSdk":  26,
-                     "sizeBytes":  96084897,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3.apk",
-                     "sha256":  "5f59484c8a78932a1f10507bd12051d28a9eaf1b396fa012be81ef4839c11d03",
+                     "sizeBytes":  96085245,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4.apk",
+                     "sha256":  "d1957f7958e16c4b9007ffbc3a3155ca65394854a0984bc6115b94ff3f2dc358",
                      "signerSha256":  "1642d09953a8135fe302794707dbc48a094ab52a553f7ada1d25a472f72a88a2",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -231,19 +231,19 @@
                      "accentHex":  "#2A6FB0",
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3-arm64-v8a.apk",
-                                                       "sha256":  "e2f35686f502185ce53a9af20dc6c4552bdcc67147d44e0458b0e5ab2f32c031",
-                                                       "sizeBytes":  36239165
+                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4-arm64-v8a.apk",
+                                                       "sha256":  "17fdbd4eab686fdb80d5ff5a3646ff752a31cd3dc6a893bbc721111ef7838311",
+                                                       "sizeBytes":  36239513
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3-armeabi-v7a.apk",
-                                                         "sha256":  "3a70e791bdc1f32cd56014385a73c26b3211eb575525c135d11874a6524ffcdb",
-                                                         "sizeBytes":  30727471
+                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4-armeabi-v7a.apk",
+                                                         "sha256":  "24fcfc2b76ef2c2152244084ed36e644f96e0a6fb44eb0265889ef6153d0862f",
+                                                         "sizeBytes":  30727819
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3-x86_64.apk",
-                                                    "sha256":  "ffcbc453d9650ce5149ba268b0078b8312c656ab9638e36c0f048d06f22b5eb8",
-                                                    "sizeBytes":  39018206
+                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4-x86_64.apk",
+                                                    "sha256":  "a2cc55cfbff9c06c9b20e6c0a608e601076bf2531e23e2fa67aefeb8cdc4f84f",
+                                                    "sizeBytes":  39018554
                                                 }
                                  }
                  },
@@ -267,12 +267,12 @@
                                         "Secure backup",
                                         "No ads, no tracking"
                                     ],
-                     "versionName":  "1.4.8",
-                     "versionCode":  27,
+                     "versionName":  "1.4.9",
+                     "versionCode":  28,
                      "minSdk":  28,
-                     "sizeBytes":  4555794,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/daftar-1.4.8.apk",
-                     "sha256":  "ee299a4b8c792d8007711f4fee04ff76debca5df0af5fb6b4061c552b9faee08",
+                     "sizeBytes":  4575670,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/daftar-1.4.9.apk",
+                     "sha256":  "68656623b8ee1ef0393933e83c1e18fe2be480fcd1f3d2a56bf799e180aa12fe",
                      "signerSha256":  "93846ccd781710d5771f6c0e81bb07210d9bae7bf0a922622a4558b958ad10d5",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -405,12 +405,12 @@
                                         "Fully encrypted data",
                                         "Can be disguised behind another icon"
                                     ],
-                     "versionName":  "1.3.9",
-                     "versionCode":  17,
+                     "versionName":  "1.3.10",
+                     "versionCode":  18,
                      "minSdk":  26,
-                     "sizeBytes":  25290985,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/qamariya-1.3.9.apk",
-                     "sha256":  "fe97b3cf39bc9eb48e50463772f964579211864e136880b93269fee14d92c861",
+                     "sizeBytes":  25290981,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/qamariya-1.3.10.apk",
+                     "sha256":  "96dfe3437de585e1e9283c5a8d27b17f4f786b989a016818ca2e36b1e72a1120",
                      "signerSha256":  "2b3e160b74a984a2e21b538054013e08bf46496d9a274adf7b5e1cc56d7c2f12",
                      "changelogAr":  "",
                      "flavor":  "",
