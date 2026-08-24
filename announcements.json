@@ -1,5 +1,5 @@
 {
-  "lastId": 2,
+  "lastId": 3,
   "announcements": [
     {
       "id": 1,
@@ -14,6 +14,15 @@
       "id": 2,
       "titleAr": "ميزة جديدة",
       "bodyAr": "تحديث جديد في بعض التطبيقات",
+      "titleEn": "",
+      "bodyEn": "",
+      "url": "",
+      "sentAt": "2026-08-24"
+    },
+    {
+      "id": 3,
+      "titleAr": "اشعار جديد تيست تيست",
+      "bodyAr": "تيستو لتيست عم تتست تيست جديد",
       "titleEn": "",
       "bodyEn": "",
       "url": "",
