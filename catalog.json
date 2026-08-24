@@ -32,7 +32,7 @@
                      "minSdk":  24,
                      "sizeBytes":  1877541,
                      "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.19.0.apk",
-                     "sha256":  "3f805e557c24bf7b8157059360e2b84093d6b2f0a4fff195de4e518faa2ac31c",
+                     "sha256":  "7df91a85972929bc5c981d39828b2783e3fc12d455d7601f2efcd2214c5735e4",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -131,12 +131,12 @@
                                         "Direct pairing code when discovery fails",
                                         "Sends files, folders, and text"
                                     ],
-                     "versionName":  "0.2.1",
-                     "versionCode":  3,
+                     "versionName":  "0.2.2",
+                     "versionCode":  4,
                      "minSdk":  21,
-                     "sizeBytes":  97299292,
+                     "sizeBytes":  97299296,
                      "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.2.apk",
-                     "sha256":  "72a79c1827a0a49d246a736eb63a5d5d81c2a07794bfcf907f3bcf0044386c8c",
+                     "sha256":  "e96e321ef863091525576f3b91005b76dbdfd70aacd2265f980bd15760d5f85e",
                      "signerSha256":  "262ab08c3616f8621271eedb04c986a5cd11c0789d5dde66d397ad70b940bea8",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -147,17 +147,17 @@
                      "abiApks":  {
                                      "arm64-v8a":  {
                                                        "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.2-arm64-v8a.apk",
-                                                       "sha256":  "96674db89ccce6a8c6f58de2df94c78ba9afe62f9e11c7eec57e2c8fe88a21cc",
+                                                       "sha256":  "02d215d2582afb03e016457218a62f1f1c50d666b09f26a3e0abc02d8053b5d9",
                                                        "sizeBytes":  36628227
                                                    },
                                      "armeabi-v7a":  {
                                                          "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.2-armeabi-v7a.apk",
-                                                         "sha256":  "b338b8eb2bc1b76f6e9113711dab059d8070b8b83bbb2d7d9ae773962ad186d8",
-                                                         "sizeBytes":  33235313
+                                                         "sha256":  "74b4b2ae3c9329e1104ec37fb567cce9590383bf86fa4a969277e63a44852cb2",
+                                                         "sizeBytes":  33235309
                                                      },
                                      "x86_64":  {
                                                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.2-x86_64.apk",
-                                                    "sha256":  "7fb75591b7aaaab0e5fecb32d83fe3c0c1b9b527121211cd7a3abae343ac4acc",
+                                                    "sha256":  "631502f3e8819d7bd645c5704b525dacaa4ed641199df24839c3d2b510b31ade",
                                                     "sizeBytes":  38856446
                                                 }
                                  }
@@ -337,12 +337,12 @@
                                         "Local sync with your computer (Windows/Linux)",
                                         "Strong encryption with one key you keep"
                                     ],
-                     "versionName":  "0.2.4",
-                     "versionCode":  6,
+                     "versionName":  "0.2.5",
+                     "versionCode":  7,
                      "minSdk":  26,
-                     "sizeBytes":  15824438,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/hisn-0.2.4.apk",
-                     "sha256":  "7fbe261c8117ce2bc9e8f094f47b5903e20884a2cf593167d65eb758593963c5",
+                     "sizeBytes":  15826314,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/hisn-0.2.5.apk",
+                     "sha256":  "6eb2472addccd3cefca63c6d3a814ee765984c3df732305c7029c1d7bd88ae7c",
                      "signerSha256":  "d994420ebaacbf51b29024b1b9ae0ead612352430befedb42ce9fa39fd2a65e1",
                      "changelogAr":  "",
                      "flavor":  "",
