@@ -27,12 +27,12 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.20.3",
-                     "versionCode":  48,
+                     "versionName":  "1.21.0",
+                     "versionCode":  49,
                      "minSdk":  24,
-                     "sizeBytes":  1894389,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.20.3.apk",
-                     "sha256":  "f988f7e92250792c8f645080164100a35ade309ce0392e49f3c73c38a573a9e9",
+                     "sizeBytes":  1895477,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.21.0.apk",
+                     "sha256":  "a55f6fb2b1af12e40cf329eecd9d48eea4a7a098c53c07bb2674ee9b4864099e",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -216,12 +216,12 @@
                                         "Photo editor",
                                         "Encrypted vault for private photos"
                                     ],
-                     "versionName":  "0.2.2",
-                     "versionCode":  4,
+                     "versionName":  "0.2.3",
+                     "versionCode":  5,
                      "minSdk":  26,
-                     "sizeBytes":  96084445,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.2.apk",
-                     "sha256":  "3a9007ae7ccde9970422320bf26d1bf26c028b8cafc69128c704a52e22d8f64b",
+                     "sizeBytes":  96084897,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3.apk",
+                     "sha256":  "5f59484c8a78932a1f10507bd12051d28a9eaf1b396fa012be81ef4839c11d03",
                      "signerSha256":  "1642d09953a8135fe302794707dbc48a094ab52a553f7ada1d25a472f72a88a2",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -231,19 +231,19 @@
                      "accentHex":  "#2A6FB0",
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.2-arm64-v8a.apk",
-                                                       "sha256":  "ca04a44879b13bd96284c071c9ff30ff47b7b5f1293d860500d353a1d42066a1",
-                                                       "sizeBytes":  36238713
+                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3-arm64-v8a.apk",
+                                                       "sha256":  "e2f35686f502185ce53a9af20dc6c4552bdcc67147d44e0458b0e5ab2f32c031",
+                                                       "sizeBytes":  36239165
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.2-armeabi-v7a.apk",
-                                                         "sha256":  "088915331ba5b4be7b0893ed29a96057363c9704e917ae52b3d3667010188541",
-                                                         "sizeBytes":  30727019
+                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3-armeabi-v7a.apk",
+                                                         "sha256":  "3a70e791bdc1f32cd56014385a73c26b3211eb575525c135d11874a6524ffcdb",
+                                                         "sizeBytes":  30727471
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.2-x86_64.apk",
-                                                    "sha256":  "5ac7add4e05c58a10210d43b9fbbee33f805a6941e466cc6124151b508370fa8",
-                                                    "sizeBytes":  39017754
+                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.3-x86_64.apk",
+                                                    "sha256":  "ffcbc453d9650ce5149ba268b0078b8312c656ab9638e36c0f048d06f22b5eb8",
+                                                    "sizeBytes":  39018206
                                                 }
                                  }
                  },
@@ -337,12 +337,12 @@
                                         "Local sync with your computer (Windows/Linux)",
                                         "Strong encryption with one key you keep"
                                     ],
-                     "versionName":  "0.2.5",
-                     "versionCode":  7,
+                     "versionName":  "0.2.6",
+                     "versionCode":  8,
                      "minSdk":  26,
-                     "sizeBytes":  15826314,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/hisn-0.2.5.apk",
-                     "sha256":  "6eb2472addccd3cefca63c6d3a814ee765984c3df732305c7029c1d7bd88ae7c",
+                     "sizeBytes":  15826366,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/hisn-0.2.6.apk",
+                     "sha256":  "27b576cd71c40c95512f2ee6b928120e9f5bafb35037e18d1a34f6fcea458c04",
                      "signerSha256":  "d994420ebaacbf51b29024b1b9ae0ead612352430befedb42ce9fa39fd2a65e1",
                      "changelogAr":  "",
                      "flavor":  "",
