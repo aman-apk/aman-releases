@@ -30,9 +30,9 @@
                      "versionName":  "1.24.2",
                      "versionCode":  54,
                      "minSdk":  24,
-                     "sizeBytes":  1896401,
+                     "sizeBytes":  1896413,
                      "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.2.apk",
-                     "sha256":  "e9573c5cb15cd5a81f20c8512a9cc0aa8fedf3e237cbc9e7472906038ca7a575",
+                     "sha256":  "99554caf2c1ddb43a1c933e9467964338481d6da2bf0714e613b5c3a73d9d82f",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -131,12 +131,12 @@
                                         "Direct pairing code when discovery fails",
                                         "Sends files, folders, and text"
                                     ],
-                     "versionName":  "0.2.4",
-                     "versionCode":  6,
+                     "versionName":  "0.2.5",
+                     "versionCode":  7,
                      "minSdk":  21,
-                     "sizeBytes":  97299348,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.4.apk",
-                     "sha256":  "63ae59bade1918108a8671c6a0d1b9494c213d5c9731f9999e6ea1a492544e5e",
+                     "sizeBytes":  142929051,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.5.apk",
+                     "sha256":  "8b89ddcf9f1b2cdf757f8c19e8c05e0a4714ec96157e1c4922324b2b4a6bb323",
                      "signerSha256":  "262ab08c3616f8621271eedb04c986a5cd11c0789d5dde66d397ad70b940bea8",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -146,19 +146,19 @@
                      "accentHex":  "#4A3FA8",
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.4-arm64-v8a.apk",
-                                                       "sha256":  "0b11760f7123aa40f3c9289d7e97687161a5759ebc7fef1ed55340ab96d533b6",
-                                                       "sizeBytes":  36628279
+                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.5-arm64-v8a.apk",
+                                                       "sha256":  "14aeedd2a7029bcc04e7ee0b993773b856965e373bc905b1f5a230074a1942ca",
+                                                       "sizeBytes":  53323663
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.4-armeabi-v7a.apk",
-                                                         "sha256":  "769100bc9b8d5cef97008fd8df7ba0833c943b38427ca1f2d3be54d08816c50b",
-                                                         "sizeBytes":  33235369
+                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.5-armeabi-v7a.apk",
+                                                         "sha256":  "6fba9947fb1f7cb69f274fd5cc21bcbfacee476dd2e2ae929e9e18b7e22038b9",
+                                                         "sizeBytes":  44343811
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.4-x86_64.apk",
-                                                    "sha256":  "e23f56a9f837f3d1a1d4cc4e62ba93ab8b060d423ed99c5a122a21051b52ada0",
-                                                    "sizeBytes":  38856498
+                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.5-x86_64.apk",
+                                                    "sha256":  "ca243b0a0b3b2576f46dd6f8f05ec9834e2a8391a73046c595d1c6e4e1c7abbb",
+                                                    "sizeBytes":  56682375
                                                 }
                                  }
                  },
