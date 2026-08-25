@@ -27,12 +27,12 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.24.9",
-                     "versionCode":  61,
+                     "versionName":  "1.24.10",
+                     "versionCode":  62,
                      "minSdk":  24,
-                     "sizeBytes":  1903641,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.9.apk",
-                     "sha256":  "a2e75ee54c4363a08897342f2d6079a6590b84c200f3cb417a6c9ed0a6ca6de0",
+                     "sizeBytes":  1905617,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.10.apk",
+                     "sha256":  "d661edc2af16e34fbc9009634483022785ae56387f51510ffecde30bd9009926",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -386,6 +386,42 @@
                      "accentHex":  "#9D85C4"
                  },
                  {
+                     "packageName":  "org.amanlabs.wathaiq",
+                     "nameAr":  "وَثائق — خزنة الأوراق الرسمية",
+                     "nameEn":  "Wathaiq — Official Documents Vault",
+                     "summaryAr":  "أوراقك الرسمية مشفّرة، وتذكيرٌ قبل انتهائها",
+                     "summaryEn":  "Your papers encrypted, reminded before they expire",
+                     "descriptionAr":  "صوّر هويتك وجوازك وشهاداتك واحفظها مشفّرةً على جهازك وحده، مع تذكيرٍ قبل انتهاء صلاحية كل وثيقة. لا يطلب إذن الإنترنت أصلاً، فلا يستطيع إرسال شيء حتى لو أراد.",
+                     "descriptionEn":  "Scan your ID, passport, and certificates and keep them encrypted on your device alone, with a reminder before each document expires. It never requests the internet permission, so it could not send anything even if it wanted to.",
+                     "featuresAr":  [
+                                        "تشفير كامل على الجهاز",
+                                        "مسح بالكاميرا وقصّ الصفحات",
+                                        "تذكير قبل انتهاء الصلاحية",
+                                        "قفل ببصمة أو كلمة سر — اختياري",
+                                        "بلا إذن إنترنت أصلاً"
+                                    ],
+                     "featuresEn":  [
+                                        "Fully encrypted on device",
+                                        "Camera scan with page cropping",
+                                        "Reminders before expiry",
+                                        "Optional fingerprint or password lock",
+                                        "No internet permission at all"
+                                    ],
+                     "versionName":  "0.1.0",
+                     "versionCode":  1,
+                     "minSdk":  26,
+                     "sizeBytes":  4341838,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/wathaiq-0.1.0.apk",
+                     "sha256":  "4de423398268eb8d15d0973b625c5f64162c4298e791a5a5f0baf760296376d5",
+                     "signerSha256":  "27699825619b1d3455418d05e9f95a2e5ed740a8ab7d6b0cbc71c1871969ac87",
+                     "changelogAr":  "",
+                     "flavor":  "",
+                     "discreet":  false,
+                     "postInstallHint":  "",
+                     "index":  10,
+                     "accentHex":  "#D99A55"
+                 },
+                 {
                      "packageName":  "org.amanlabs.qamariya",
                      "nameAr":  "قمرية — حاسبة الدورة الشهرية",
                      "nameEn":  "Qamariya — Period Tracker",
@@ -416,7 +452,7 @@
                      "flavor":  "",
                      "discreet":  true,
                      "postInstallHint":  "",
-                     "index":  10,
+                     "index":  11,
                      "accentHex":  "#D97C93"
                  }
              ]
