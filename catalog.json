@@ -27,12 +27,12 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.24.11",
-                     "versionCode":  63,
+                     "versionName":  "1.24.12",
+                     "versionCode":  64,
                      "minSdk":  24,
-                     "sizeBytes":  1906625,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.11.apk",
-                     "sha256":  "9c1e4a97370f61fdf67fdb4c77a26b0fb414d8e85e0e332ae74008262e2308ab",
+                     "sizeBytes":  1909545,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.12.apk",
+                     "sha256":  "f76e129105f5d134df3b46716e74a558c24fa72e889f8f04b3597def7ad37af7",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -142,7 +142,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  6,
+                     "index":  7,
                      "accentHex":  "#5C7185",
                      "abiApks":  {
                                      "arm64-v8a":  {
@@ -193,7 +193,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  8,
+                     "index":  9,
                      "accentHex":  "#97C98B"
                  },
                  {
@@ -216,12 +216,12 @@
                                         "Photo editor",
                                         "Encrypted vault for private photos"
                                     ],
-                     "versionName":  "0.2.4",
-                     "versionCode":  6,
+                     "versionName":  "0.2.5",
+                     "versionCode":  7,
                      "minSdk":  26,
-                     "sizeBytes":  96085245,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4.apk",
-                     "sha256":  "d1957f7958e16c4b9007ffbc3a3155ca65394854a0984bc6115b94ff3f2dc358",
+                     "sizeBytes":  96110309,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.5.apk",
+                     "sha256":  "b1e7e75202928f42997e6e61c532a04528334b2e362231c39e6f0cac6a84ffc8",
                      "signerSha256":  "1642d09953a8135fe302794707dbc48a094ab52a553f7ada1d25a472f72a88a2",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -231,19 +231,19 @@
                      "accentHex":  "#2A6FB0",
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4-arm64-v8a.apk",
-                                                       "sha256":  "17fdbd4eab686fdb80d5ff5a3646ff752a31cd3dc6a893bbc721111ef7838311",
-                                                       "sizeBytes":  36239513
+                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.5-arm64-v8a.apk",
+                                                       "sha256":  "8d5990fb8d26b835b5bae7c0dd8db988aba653985aba10f19a0a4a6f0b47a988",
+                                                       "sizeBytes":  36264577
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4-armeabi-v7a.apk",
-                                                         "sha256":  "24fcfc2b76ef2c2152244084ed36e644f96e0a6fb44eb0265889ef6153d0862f",
-                                                         "sizeBytes":  30727819
+                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.5-armeabi-v7a.apk",
+                                                         "sha256":  "3037d8ab09112dc1bc2e3fa5fd85ac7b9cd94d3bd298459613ce96a502030357",
+                                                         "sizeBytes":  30752883
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.4-x86_64.apk",
-                                                    "sha256":  "a2cc55cfbff9c06c9b20e6c0a608e601076bf2531e23e2fa67aefeb8cdc4f84f",
-                                                    "sizeBytes":  39018554
+                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/album-0.2.5-x86_64.apk",
+                                                    "sha256":  "d51b2a9eca0be46b8e3594be0e079b259973704224b8fc2cf3eccde462acf8b4",
+                                                    "sizeBytes":  39043618
                                                 }
                                  }
                  },
@@ -278,7 +278,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  7,
+                     "index":  8,
                      "accentHex":  "#3FC0C4"
                  },
                  {
@@ -314,7 +314,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  9,
+                     "index":  10,
                      "accentHex":  "#7A4A72"
                  },
                  {
@@ -348,7 +348,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  4,
+                     "index":  5,
                      "accentHex":  "#C4764E"
                  },
                  {
@@ -382,7 +382,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  10,
+                     "index":  11,
                      "accentHex":  "#9D85C4"
                  },
                  {
@@ -418,8 +418,44 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  5,
+                     "index":  6,
                      "accentHex":  "#A98A5C"
+                 },
+                 {
+                     "packageName":  "org.amanlabs.ruznama",
+                     "nameAr":  "رزنامة — تقويم المواعيد والدعوات",
+                     "nameEn":  "Ruznama — Calendar \u0026 Invitations",
+                     "summaryAr":  "مواعيدك ودعواتك محفوظة — بلا إنترنت ولا حساب",
+                     "summaryEn":  "Your events and invites, kept offline — no account",
+                     "descriptionAr":  "تقويمٌ عربيٌّ يفتح دعوات الاجتماعات التي تصلك على بريدك (ملفات ics) ويحفظها بنقرة واحدة، ويذكّرك بمواعيدك ومهامك في وقتها. وردّك على الدعوة يخرج عبر تطبيق بريدك أنت — والتقويم نفسه لا يملك إذن إنترنت أصلاً.",
+                     "descriptionEn":  "An Arabic-first calendar that opens the meeting invitations arriving in your email (.ics files) and saves them in one tap, and reminds you of your events and tasks on time. Your reply goes out through your own email app — the calendar itself has no internet permission at all.",
+                     "featuresAr":  [
+                                        "يفتح دعوات الاجتماعات من بريدك ويحفظها بنقرة",
+                                        "ردٌّ على الدعوة: قبول أو تردد أو اعتذار",
+                                        "مواعيد ومهام وتذكيرات في وقتها",
+                                        "عربيٌّ أولاً من اليمين إلى اليسار",
+                                        "بلا إذن إنترنت أصلاً"
+                                    ],
+                     "featuresEn":  [
+                                        "Opens email meeting invites and saves them in one tap",
+                                        "Reply to invites: accept, tentative, or decline",
+                                        "Events, tasks, and on-time reminders",
+                                        "Arabic-first, right-to-left",
+                                        "No internet permission at all"
+                                    ],
+                     "versionName":  "0.1.0",
+                     "versionCode":  1,
+                     "minSdk":  26,
+                     "sizeBytes":  2377302,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/ruznama-0.1.0.apk",
+                     "sha256":  "848089c5355377ccd7c76010a47a7eed89d7d22b6537fda6625f55f1358970ff",
+                     "signerSha256":  "6715f85a8ed1ace01581e06a22f9df4218a187e7a728cb8f869b890d5530275a",
+                     "changelogAr":  "",
+                     "flavor":  "",
+                     "discreet":  false,
+                     "postInstallHint":  "",
+                     "index":  4,
+                     "accentHex":  "#35784A"
                  },
                  {
                      "packageName":  "org.amanlabs.qamariya",
@@ -452,7 +488,7 @@
                      "flavor":  "",
                      "discreet":  true,
                      "postInstallHint":  "",
-                     "index":  11,
+                     "index":  12,
                      "accentHex":  "#D97C93"
                  }
              ]
