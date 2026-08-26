@@ -27,12 +27,12 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.24.12",
-                     "versionCode":  64,
+                     "versionName":  "1.24.13",
+                     "versionCode":  65,
                      "minSdk":  24,
-                     "sizeBytes":  1909545,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.12.apk",
-                     "sha256":  "f76e129105f5d134df3b46716e74a558c24fa72e889f8f04b3597def7ad37af7",
+                     "sizeBytes":  1911357,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.13.apk",
+                     "sha256":  "e2e4b12ea6b921208406bfe0dbb3480af75af75ab986cd59583db8bd52f4dc58",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -193,7 +193,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  9,
+                     "index":  10,
                      "accentHex":  "#97C98B"
                  },
                  {
@@ -314,7 +314,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  10,
+                     "index":  11,
                      "accentHex":  "#7A4A72"
                  },
                  {
@@ -382,7 +382,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  11,
+                     "index":  12,
                      "accentHex":  "#9D85C4"
                  },
                  {
@@ -458,6 +458,42 @@
                      "accentHex":  "#35784A"
                  },
                  {
+                     "packageName":  "org.amanlabs.sijil",
+                     "nameAr":  "سِجِلّ — أرشيف الإشعارات",
+                     "nameEn":  "Sijil — Notification History",
+                     "summaryAr":  "كل إشعارٍ مسحته بالخطأ… تجده هنا",
+                     "summaryEn":  "Every notification you swiped away by mistake",
+                     "descriptionAr":  "يحفظ إشعاراتك فور وصولها على جهازك وحده، فتعود إلى ما مسحته بالخطأ أو ما وصل والهاتف مقفل. ابحث في كل ما مضى، واعرف أي تطبيقٍ يزعجك أكثر. حزمته لا تحمل إذناً واحداً، ولا تملك منفذ إنترنت.",
+                     "descriptionEn":  "Keeps your notifications the moment they arrive, on your device alone — so you can go back to what you swiped away by mistake or what landed while the phone was locked. Search everything past, and see which app disturbs you most. Its package carries no permission at all, and no internet.",
+                     "featuresAr":  [
+                                        "يلتقط الإشعارات فور وصولها والهاتف مقفل",
+                                        "ابحث في كل ما مضى منها",
+                                        "إحصاءٌ لأكثر التطبيقات إزعاجاً",
+                                        "قفل التطبيق برمزٍ اختياري",
+                                        "بلا إذن واحد في الحزمة ولا إنترنت"
+                                    ],
+                     "featuresEn":  [
+                                        "Captures notifications as they arrive, even locked",
+                                        "Search everything past",
+                                        "Stats for the most disturbing apps",
+                                        "Optional PIN lock",
+                                        "No permission in the package, and no internet"
+                                    ],
+                     "versionName":  "0.1.0",
+                     "versionCode":  1,
+                     "minSdk":  26,
+                     "sizeBytes":  2283855,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/sijil-0.1.0.apk",
+                     "sha256":  "5bf6047a9b3a8f69ae1d9320cdf8543406744d958f4f5e3b69c1ae399020276d",
+                     "signerSha256":  "43995d32692f96b2bfa8d7a691147f6107d66a228b33148823fcf0408e05bfb5",
+                     "changelogAr":  "",
+                     "flavor":  "",
+                     "discreet":  false,
+                     "postInstallHint":  "",
+                     "index":  9,
+                     "accentHex":  "#C6453B"
+                 },
+                 {
                      "packageName":  "org.amanlabs.qamariya",
                      "nameAr":  "قمرية — حاسبة الدورة الشهرية",
                      "nameEn":  "Qamariya — Period Tracker",
@@ -488,7 +524,7 @@
                      "flavor":  "",
                      "discreet":  true,
                      "postInstallHint":  "",
-                     "index":  12,
+                     "index":  13,
                      "accentHex":  "#D97C93"
                  }
              ]
