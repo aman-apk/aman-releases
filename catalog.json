@@ -142,7 +142,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  3,
+                     "index":  6,
                      "accentHex":  "#5C7185",
                      "abiApks":  {
                                      "arm64-v8a":  {
@@ -193,7 +193,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  4,
+                     "index":  8,
                      "accentHex":  "#97C98B"
                  },
                  {
@@ -227,7 +227,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  5,
+                     "index":  3,
                      "accentHex":  "#2A6FB0",
                      "abiApks":  {
                                      "arm64-v8a":  {
@@ -278,7 +278,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  6,
+                     "index":  7,
                      "accentHex":  "#3FC0C4"
                  },
                  {
@@ -314,7 +314,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  7,
+                     "index":  9,
                      "accentHex":  "#7A4A72"
                  },
                  {
@@ -348,7 +348,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  8,
+                     "index":  4,
                      "accentHex":  "#C4764E"
                  },
                  {
@@ -382,7 +382,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  9,
+                     "index":  10,
                      "accentHex":  "#9D85C4"
                  },
                  {
@@ -418,7 +418,7 @@
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
-                     "index":  10,
+                     "index":  5,
                      "accentHex":  "#A98A5C"
                  },
                  {
