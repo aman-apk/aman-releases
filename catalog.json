@@ -27,12 +27,12 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.24.16",
-                     "versionCode":  68,
+                     "versionName":  "1.24.17",
+                     "versionCode":  69,
                      "minSdk":  24,
-                     "sizeBytes":  1913373,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.16.apk",
-                     "sha256":  "a372c0b0e1d2974dcc6175ba1ca171909b309f1f3baf5876615166d4aea54bce",
+                     "sizeBytes":  1915321,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/amanstore-1.24.17.apk",
+                     "sha256":  "acb3e3d6886cde2e9b70e3eb6f8a3ddb5b464500a8526dcf28520b570eaf618f",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -131,12 +131,12 @@
                                         "Direct pairing code when discovery fails",
                                         "Sends files, folders, and text"
                                     ],
-                     "versionName":  "0.2.8",
-                     "versionCode":  5010,
+                     "versionName":  "0.2.9",
+                     "versionCode":  5011,
                      "minSdk":  21,
-                     "sizeBytes":  142894203,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.8.apk",
-                     "sha256":  "8d71bb4151448fe1de2868f73830962b7ff2910f20f6a2b6c1880dcc20d6f58b",
+                     "sizeBytes":  143169923,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.9.apk",
+                     "sha256":  "ac9ccd16e5590e5ab8f27486b5c2703adaafc3c55c48b96bbe9fa609e4e40918",
                      "signerSha256":  "262ab08c3616f8621271eedb04c986a5cd11c0789d5dde66d397ad70b940bea8",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -146,19 +146,19 @@
                      "accentHex":  "#5C7185",
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.8-arm64-v8a.apk",
-                                                       "sha256":  "1a3aac186e26d09b32b62c94389e5ab891e7c19ec5c91bc8762e409f0107da45",
-                                                       "sizeBytes":  53288811
+                                                       "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.9-arm64-v8a.apk",
+                                                       "sha256":  "e55bd5eaabc5a432b00eba718f9bc603bb84994fcb814fc58b4919236d3c942a",
+                                                       "sizeBytes":  53564531
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.8-armeabi-v7a.apk",
-                                                         "sha256":  "194d0e798858eac352f46052d6aba34900e3bbca64748a3b5a5836589c45f68d",
-                                                         "sizeBytes":  44308959
+                                                         "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.9-armeabi-v7a.apk",
+                                                         "sha256":  "877a3afa4e08ee5dcab3879beb3d5d5f21993a4d41febada52985e436c9da12e",
+                                                         "sizeBytes":  44584679
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.8-x86_64.apk",
-                                                    "sha256":  "907f34e4e2694ade3cd5304c53d29b987b8acdaac6cf2d934f9814eb4804cf27",
-                                                    "sizeBytes":  56647523
+                                                    "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/jisr-0.2.9-x86_64.apk",
+                                                    "sha256":  "279e8ec13e9d237d3b47e0d1c491d3055879fe03a307009b78421a542d4fc60d",
+                                                    "sizeBytes":  56923243
                                                 }
                                  }
                  },
@@ -479,12 +479,12 @@
                                         "Optional PIN lock",
                                         "No permission in the package, and no internet"
                                     ],
-                     "versionName":  "0.1.2",
-                     "versionCode":  3,
+                     "versionName":  "0.1.3",
+                     "versionCode":  4,
                      "minSdk":  26,
-                     "sizeBytes":  2286515,
-                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/sijil-0.1.2.apk",
-                     "sha256":  "48c81c7fe9b930293c48d2c4869dc871e80cb960e10bdf59658ae680454a2047",
+                     "sizeBytes":  2286451,
+                     "apkUrl":  "https://github.com/aman-apk/aman-releases/releases/download/v1.1.0/sijil-0.1.3.apk",
+                     "sha256":  "f6dfc9223654df027c5b495980c24bfc926b6092ad71e7ea8813af134a2c50a4",
                      "signerSha256":  "43995d32692f96b2bfa8d7a691147f6107d66a228b33148823fcf0408e05bfb5",
                      "changelogAr":  "",
                      "flavor":  "",
