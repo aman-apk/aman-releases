@@ -117,7 +117,7 @@
                      "nameEn":  "Jisr — Local File Transfer",
                      "summaryAr":  "شارك ملفاتك الضخمة في ثوانٍ، بلا إنترنت",
                      "summaryEn":  "Share huge files in seconds, no internet",
-                     "descriptionAr":  "انقل ملفاتك بين أجهزتك عبر شبكتك المحلية وحدها — بلا خادم ولا سحابة ولا حدود حجم. سريع وخاص تمامًا.",
+                     "descriptionAr":  "انقل ملفاتك بين أجهزتك عبر شبكتك المحلية وحدها — بلا خادم ولا سحابة ولا حدود حجم. سريع وخاص تماماً.",
                      "descriptionEn":  "Move files between your devices over your own local network only — no server, no cloud, no size limit. Fast and fully private.",
                      "featuresAr":  [
                                         "نقل عبر الشبكة المحلية بلا إنترنت",
@@ -290,7 +290,7 @@
                      "descriptionAr":  "أدر ملفاتك بلوحين متجاورين، وخبّئ ما تريد في خزنة مشفّرة، واقرأ خريطة قرصك، وسلّةٌ تُعيد المحذوف إلى مكانه الأصلي.",
                      "descriptionEn":  "Manage files with a dual pane, hide what you want in an encrypted vault, read your disk map, and a trash that restores deleted files to their original place.",
                      "featuresAr":  [
-                                        "لوحان جنبًا إلى جنب",
+                                        "لوحان جنباً إلى جنب",
                                         "خزنة مشفّرة AES-256",
                                         "خريطة مساحة القرص",
                                         "سلة تعيد الملف لمكانه",
@@ -323,7 +323,7 @@
                      "nameEn":  "Hisn — Password Manager",
                      "summaryAr":  "كلمة واحدة تحفظ كل كلمات مرورك",
                      "summaryEn":  "One password keeps all your passwords",
-                     "descriptionAr":  "احفظ كلمات مرورك وعبّئها تلقائيًا، وولّد رموزًا مؤقتة، وزامنها محليًا مع حاسوبك — خزنتك بين يديك وحدك.",
+                     "descriptionAr":  "احفظ كلمات مرورك وعبّئها تلقائياً، وولّد رموزاً مؤقتة، وزامنها محلياً مع حاسوبك — خزنتك بين يديك وحدك.",
                      "descriptionEn":  "Save your passwords and autofill them, generate one-time codes, and sync locally with your computer — your vault is in your hands alone.",
                      "featuresAr":  [
                                         "تعبئة تلقائية في المتصفح والتطبيقات",
