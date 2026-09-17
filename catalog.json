@@ -27,19 +27,20 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.27.2",
-                     "versionCode":  99,
+                     "versionName":  "1.28.0",
+                     "versionCode":  100,
                      "minSdk":  24,
-                     "sizeBytes":  2035862,
-                     "apkUrl":  "https://dl.amanlabs.app/amanstore-1.27.2.apk",
-                     "sha256":  "f7f72ce8f96e008f94b66a05ee3d2dcc0c6ba54d4bbd8082afbd8181f085bead",
+                     "sizeBytes":  2086894,
+                     "apkUrl":  "https://dl.amanlabs.app/amanstore-1.28.0.apk",
+                     "sha256":  "6ccf38bccae184f49ebbddef7f80adf082b07ccf8758fe575a6ff43f703d19a9",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  0,
-                     "accentHex":  "#E0A32E"
+                     "accentHex":  "#E0A32E",
+                     "hidden":  false
                  },
                  {
                      "packageName":  "org.amanlabs.kalamboard",
@@ -75,7 +76,8 @@
                      "discreet":  false,
                      "postInstallHint":  "ime",
                      "index":  1,
-                     "accentHex":  "#E0A32E"
+                     "accentHex":  "#E0A32E",
+                     "hidden":  false
                  },
                  {
                      "packageName":  "org.amanlabs.mihrab",
@@ -109,7 +111,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  2,
-                     "accentHex":  "#7C89CF"
+                     "accentHex":  "#7C89CF",
+                     "hidden":  false
                  },
                  {
                      "packageName":  "org.amanlabs.tayf",
@@ -145,7 +148,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  3,
-                     "accentHex":  "#DE5945"
+                     "accentHex":  "#DE5945",
+                     "hidden":  false
                  },
                  {
                      "packageName":  "org.amanlabs.jisr",
@@ -180,6 +184,7 @@
                      "postInstallHint":  "",
                      "index":  8,
                      "accentHex":  "#5C7185",
+                     "hidden":  false,
                      "abiApks":  {
                                      "arm64-v8a":  {
                                                        "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.9-arm64-v8a.apk",
@@ -230,7 +235,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  11,
-                     "accentHex":  "#97C98B"
+                     "accentHex":  "#97C98B",
+                     "hidden":  true
                  },
                  {
                      "packageName":  "org.amanlabs.album",
@@ -265,6 +271,7 @@
                      "postInstallHint":  "",
                      "index":  4,
                      "accentHex":  "#2A6FB0",
+                     "hidden":  false,
                      "abiApks":  {
                                      "arm64-v8a":  {
                                                        "apkUrl":  "https://dl.amanlabs.app/album-0.2.6-arm64-v8a.apk",
@@ -315,7 +322,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  9,
-                     "accentHex":  "#3FC0C4"
+                     "accentHex":  "#3FC0C4",
+                     "hidden":  true
                  },
                  {
                      "packageName":  "org.amanlabs.diwan",
@@ -351,7 +359,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  12,
-                     "accentHex":  "#7A4A72"
+                     "accentHex":  "#7A4A72",
+                     "hidden":  true
                  },
                  {
                      "packageName":  "org.amanlabs.hisn",
@@ -385,7 +394,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  6,
-                     "accentHex":  "#C4764E"
+                     "accentHex":  "#C4764E",
+                     "hidden":  false
                  },
                  {
                      "packageName":  "org.amanlabs.sitr",
@@ -419,7 +429,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  13,
-                     "accentHex":  "#9D85C4"
+                     "accentHex":  "#9D85C4",
+                     "hidden":  true
                  },
                  {
                      "packageName":  "org.amanlabs.wathaiq",
@@ -455,7 +466,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  7,
-                     "accentHex":  "#A98A5C"
+                     "accentHex":  "#A98A5C",
+                     "hidden":  true
                  },
                  {
                      "packageName":  "org.amanlabs.ruznama",
@@ -491,7 +503,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  5,
-                     "accentHex":  "#235C34"
+                     "accentHex":  "#235C34",
+                     "hidden":  true
                  },
                  {
                      "packageName":  "org.amanlabs.sijil",
@@ -527,7 +540,8 @@
                      "discreet":  false,
                      "postInstallHint":  "",
                      "index":  10,
-                     "accentHex":  "#E5A21E"
+                     "accentHex":  "#E5A21E",
+                     "hidden":  true
                  },
                  {
                      "packageName":  "org.amanlabs.qamariya",
@@ -561,7 +575,8 @@
                      "discreet":  true,
                      "postInstallHint":  "",
                      "index":  14,
-                     "accentHex":  "#D97C93"
+                     "accentHex":  "#D97C93",
+                     "hidden":  true
                  }
              ]
 }
