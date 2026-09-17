@@ -467,7 +467,7 @@
       "postInstallHint": "",
       "index": 7,
       "accentHex": "#A98A5C",
-      "hidden": false
+      "hidden": true
     },
     {
       "packageName": "org.amanlabs.ruznama",
