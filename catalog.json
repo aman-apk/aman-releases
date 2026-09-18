@@ -184,7 +184,7 @@
       "postInstallHint": "",
       "index": 8,
       "accentHex": "#5C7185",
-      "hidden": false,
+      "hidden": true,
       "abiApks": {
         "arm64-v8a": {
           "apkUrl": "https://dl.amanlabs.app/jisr-0.2.9-arm64-v8a.apk",
