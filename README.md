@@ -84,7 +84,7 @@ The apps that can work offline have no `INTERNET` permission in their manifest, 
 
 This account publishes the builds; the sources are moving into public repositories one app at a time, starting with the ones derived from other free software, because their licenses ask for it:
 
-- **Hisn** is derived from [KeePassXC](https://github.com/keepassxreboot/keepassxc) (GPL-2.0 / GPL-3.0). Its complete source, desktop and Android, goes up first under the same license, as `aman-apk/hisn`; the link will be added here the moment it is live. Until then, write to us and we will send the source archive.
+- **Hisn** is derived from [KeePassXC](https://github.com/keepassxreboot/keepassxc) (GPL-2.0 / GPL-3.0). Its complete source, desktop and Android, is published at [aman-apk/hisn](https://github.com/aman-apk/hisn) under the same license.
 - **KalamBoard** is derived from [FlorisBoard](https://github.com/florisboard/florisboard) and **Jisr** from [LocalSend](https://github.com/localsend/localsend), both Apache-2.0. Their license and NOTICE files are kept in our source trees and will be published with them.
 
 The rest (Tayf, Mihrab, Album, the store and the unannounced members) are our own code and will be published as they are cleaned up for it. Until a repository exists for an app, the fingerprints above and the catalog are its verification anchor.
