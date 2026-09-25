@@ -24,7 +24,7 @@ Fourteen apps and the store. Six of them have had a public launch so far; the re
 | <img src="https://amanlabs.app/media/icons/tayf.svg" width="36"> | **Tayf** — طيف | `org.amanlabs.tayf` | Browser with tracker blocking inside the engine, private tabs, reader mode, and a downloader that grabs the video or audio on the page at the quality you choose. Also runs on Windows. |
 | <img src="https://amanlabs.app/media/icons/jisr.svg" width="36"> | **Jisr** — جسر | `org.amanlabs.jisr` | Moves files between your own devices over the local network. No server, no size limit, works without internet. Speaks the [LocalSend](https://github.com/localsend/localsend) protocol, so it talks to LocalSend devices too. Android and Windows. |
 | <img src="https://amanlabs.app/media/icons/album.svg" width="36"> | **Album** — ألبوم | `org.amanlabs.album` | Photo and video gallery with on-device face grouping, a video player, an editor and an encrypted vault. Nothing is uploaded anywhere. |
-| <img src="https://amanlabs.app/media/icons/hisn.svg" width="36"> | **Hisn** — حصن | `org.amanlabs.hisn` | Password manager on the KeePass KDBX format, with autofill, TOTP codes and direct Wi-Fi sync to the desktop app. Built on [KeePassXC](https://keepassxc.org). Your vault is one encrypted file that never leaves your devices. |
+| <img src="https://amanlabs.app/media/icons/hisn.svg" width="36"> | **Hisn** — حصن | `org.amanlabs.hisn` | Password manager on the KeePass KDBX format, with autofill, TOTP codes and direct Wi-Fi sync to the desktop app. Built on [KeePassXC](https://keepassxc.org); [source](https://github.com/aman-apk/hisn). Your vault is one encrypted file that never leaves your devices. |
 | | **Daftar** — دفتر | `org.amanlabs.daftar` | Notes and notebooks with reminders and an encrypted backup. Nothing you write leaves the phone. |
 | | **Jezdan** — جزدان | `org.amanlabs.jezdan` | Expense and income tracker in any currency, with debts, dues and monthly reports. |
 | | **Diwan** — ديوان | `org.amanlabs.diwan` | Dual-pane file manager with an encrypted vault, a disk map, and a trash that restores files to where they were. |
@@ -85,7 +85,8 @@ The apps that can work offline have no `INTERNET` permission in their manifest, 
 This account publishes the builds; the sources are moving into public repositories one app at a time, starting with the ones derived from other free software, because their licenses ask for it:
 
 - **Hisn** is derived from [KeePassXC](https://github.com/keepassxreboot/keepassxc) (GPL-2.0 / GPL-3.0). Its complete source, desktop and Android, is published at [aman-apk/hisn](https://github.com/aman-apk/hisn) under the same license.
-- **KalamBoard** is derived from [FlorisBoard](https://github.com/florisboard/florisboard) and **Jisr** from [LocalSend](https://github.com/localsend/localsend), both Apache-2.0. Their license and NOTICE files are kept in our source trees and will be published with them.
+- **KalamBoard** is derived from [FlorisBoard](https://github.com/florisboard/florisboard) (Apache-2.0). Source, with the NOTICE describing our changes: [aman-apk/kalamboard](https://github.com/aman-apk/kalamboard).
+- **Jisr** is derived from [LocalSend](https://github.com/localsend/localsend) (Apache-2.0). Source: [aman-apk/jisr](https://github.com/aman-apk/jisr).
 
 The rest (Tayf, Mihrab, Album, the store and the unannounced members) are our own code and will be published as they are cleaned up for it. Until a repository exists for an app, the fingerprints above and the catalog are its verification anchor.
 
