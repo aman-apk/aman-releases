@@ -37,7 +37,7 @@ Fourteen apps and the store. Six of them have had a public launch so far; the re
 
 ## Install
 
-**Recommended: Aman Store.** Download [`amanstore-1.28.2.apk`](https://dl.amanlabs.app/amanstore-1.28.2.apk) (2 MB), install it, and take the rest from there. The store checks the SHA-256 of each download and the signing certificate of each package against the catalog and refuses anything that does not match. Updates for all apps arrive through it.
+**Recommended: Aman Store.** Download [`amanstore-1.28.3.apk`](https://dl.amanlabs.app/amanstore-1.28.3.apk) (2 MB), install it, and take the rest from there. The store checks the SHA-256 of each download and the signing certificate of each package against the catalog and refuses anything that does not match. Updates for all apps arrive through it.
 
 **Direct APKs.** Every file in `catalog.json` is also on the [Releases](../../releases) page and on the mirror at `https://dl.amanlabs.app/<file>`. Jisr and Album have per-ABI splits next to the universal APK (`-arm64-v8a`, `-armeabi-v7a`, `-x86_64`); the store picks the right one, you can too.
 
