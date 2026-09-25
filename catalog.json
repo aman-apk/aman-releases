@@ -430,7 +430,7 @@
       "postInstallHint": "",
       "index": 13,
       "accentHex": "#9D85C4",
-      "hidden": false
+      "hidden": true
     },
     {
       "packageName": "org.amanlabs.wathaiq",
