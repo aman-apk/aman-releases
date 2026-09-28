@@ -27,12 +27,12 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.29.5",
-                     "versionCode":  109,
+                     "versionName":  "1.29.6",
+                     "versionCode":  110,
                      "minSdk":  24,
-                     "sizeBytes":  2097146,
-                     "apkUrl":  "https://dl.amanlabs.app/amanstore-1.29.5.apk",
-                     "sha256":  "ca706bc3fb0cadb311c215417fa547c1c87d290cf230abec3eece34b9816fa6b",
+                     "sizeBytes":  2097150,
+                     "apkUrl":  "https://dl.amanlabs.app/amanstore-1.29.6.apk",
+                     "sha256":  "c04f0b04e554ea832d1fbad0fb4aa830600f44e6764c4e04977d3a284e854149",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -67,9 +67,9 @@
                      "versionName":  "1.3.9",
                      "versionCode":  23,
                      "minSdk":  26,
-                     "sizeBytes":  12734208,
+                     "sizeBytes":  12734328,
                      "apkUrl":  "https://dl.amanlabs.app/KalamBoard-1.3.9.apk",
-                     "sha256":  "68f1e2d4e3dbc8fbba8bdee8a9a308ec4253fa0421f1b18d20ff8320ca70eeca",
+                     "sha256":  "ba58a06bf6590fce0d1bba2dd3aecb33f02345e81df0af31cb39f44982d10240",
                      "signerSha256":  "f1198e0608e7997a604f784ff8c83a788863b60033c38ce8b050c6df9577c9bb",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -171,12 +171,12 @@
                                         "Direct pairing code when discovery fails",
                                         "Sends files, folders, and text"
                                     ],
-                     "versionName":  "0.2.9",
-                     "versionCode":  5011,
+                     "versionName":  "0.2.10",
+                     "versionCode":  5012,
                      "minSdk":  21,
-                     "sizeBytes":  143169923,
-                     "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.9.apk",
-                     "sha256":  "ac9ccd16e5590e5ab8f27486b5c2703adaafc3c55c48b96bbe9fa609e4e40918",
+                     "sizeBytes":  142875907,
+                     "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10.apk",
+                     "sha256":  "6ee9b5570157969d73a457443fab9244b55f44bdcc7fdeee494f818436fc370d",
                      "signerSha256":  "262ab08c3616f8621271eedb04c986a5cd11c0789d5dde66d397ad70b940bea8",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -187,19 +187,19 @@
                      "hidden":  false,
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.9-arm64-v8a.apk",
-                                                       "sha256":  "e55bd5eaabc5a432b00eba718f9bc603bb84994fcb814fc58b4919236d3c942a",
-                                                       "sizeBytes":  53564531
+                                                       "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10-arm64-v8a.apk",
+                                                       "sha256":  "76bc9bc3edc1003726d78c4a6d98ac8bcb3d94cd4ab7ac06feed161c358a2f4b",
+                                                       "sizeBytes":  53450739
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.9-armeabi-v7a.apk",
-                                                         "sha256":  "877a3afa4e08ee5dcab3879beb3d5d5f21993a4d41febada52985e436c9da12e",
-                                                         "sizeBytes":  44584679
+                                                         "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10-armeabi-v7a.apk",
+                                                         "sha256":  "a83cc96d2e3c0bf4595aa401a53ccca87c89eff6abd91c18f9749e35365aec3c",
+                                                         "sizeBytes":  44536423
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.9-x86_64.apk",
-                                                    "sha256":  "279e8ec13e9d237d3b47e0d1c491d3055879fe03a307009b78421a542d4fc60d",
-                                                    "sizeBytes":  56923243
+                                                    "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10-x86_64.apk",
+                                                    "sha256":  "0a0cd278cff680c9a24fe3f832fe77056715f26fcc6e2da1d14f600ab05f0d47",
+                                                    "sizeBytes":  56793067
                                                 }
                                  }
                  },
@@ -382,12 +382,12 @@
                                         "Local sync with your computer (Windows/Linux)",
                                         "Strong encryption with one key you keep"
                                     ],
-                     "versionName":  "0.2.8",
-                     "versionCode":  10,
+                     "versionName":  "0.2.9",
+                     "versionCode":  11,
                      "minSdk":  26,
                      "sizeBytes":  15872998,
-                     "apkUrl":  "https://dl.amanlabs.app/hisn-0.2.8.apk",
-                     "sha256":  "1835fd46206fcf42c32a7072d02885030b8f5f987f20bc6d357a2fb6147049c2",
+                     "apkUrl":  "https://dl.amanlabs.app/hisn-0.2.9.apk",
+                     "sha256":  "a065b9ae5f80450fd4726659c471fca56f392f0b80933fc569798db2f1dbec7a",
                      "signerSha256":  "d994420ebaacbf51b29024b1b9ae0ead612352430befedb42ce9fa39fd2a65e1",
                      "changelogAr":  "",
                      "flavor":  "",
