@@ -171,12 +171,12 @@
                                         "Direct pairing code when discovery fails",
                                         "Sends files, folders, and text"
                                     ],
-                     "versionName":  "0.3.0",
-                     "versionCode":  5015,
+                     "versionName":  "0.3.1",
+                     "versionCode":  5016,
                      "minSdk":  21,
                      "sizeBytes":  135982203,
-                     "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.0.apk",
-                     "sha256":  "2b957f9bb3f6287f0edef2a0cd9a7a24a4ad4b6d5962136a9deb129892b794a4",
+                     "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.1.apk",
+                     "sha256":  "1aa2867379dbf26b9aa12872de59241911a1b4c4e719ddfbb589a01390654ca9",
                      "signerSha256":  "262ab08c3616f8621271eedb04c986a5cd11c0789d5dde66d397ad70b940bea8",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -187,18 +187,18 @@
                      "hidden":  false,
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.0-arm64-v8a.apk",
-                                                       "sha256":  "dd0e058bed50c2d868c566b9a38a551501f460f4e9459bfb0b21e58a81adb5b6",
+                                                       "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.1-arm64-v8a.apk",
+                                                       "sha256":  "a610019d69d96e8b8c08a9e80b04dc6c21d3c535a4dcd7d8dbf3c6bedb01275d",
                                                        "sizeBytes":  51160939
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.0-armeabi-v7a.apk",
-                                                         "sha256":  "e31b401d90a6565fe449f3b5f5117a52989840c9ebebf7d71b9610638cb8f8f5",
+                                                         "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.1-armeabi-v7a.apk",
+                                                         "sha256":  "9ebdb95a8fd5b8b604a387bf95702e392f0230256db290fdaef082430377a526",
                                                          "sizeBytes":  42033631
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.0-x86_64.apk",
-                                                    "sha256":  "61444ce8952bfd25bc3854331694a56f9d2c291749b06a1d82c9d17f030c6cca",
+                                                    "apkUrl":  "https://dl.amanlabs.app/jisr-0.3.1-x86_64.apk",
+                                                    "sha256":  "20e12124b6628635039118e2f37581aad8885e31d90aef7d237cfc5cee499f3c",
                                                     "sizeBytes":  54699875
                                                 }
                                  }
