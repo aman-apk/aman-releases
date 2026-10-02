@@ -27,12 +27,12 @@
                                         "Shares device to device, offline",
                                         "No account, no data collection"
                                     ],
-                     "versionName":  "1.29.9",
-                     "versionCode":  113,
+                     "versionName":  "1.29.11",
+                     "versionCode":  115,
                      "minSdk":  24,
-                     "sizeBytes":  2097894,
-                     "apkUrl":  "https://dl.amanlabs.app/amanstore-1.29.9.apk",
-                     "sha256":  "0c3d33d41742cfe8d50e9d844ffdbe503237162c2ee400f0f10ba533f5b6d408",
+                     "sizeBytes":  2099670,
+                     "apkUrl":  "https://dl.amanlabs.app/amanstore-1.29.11.apk",
+                     "sha256":  "5551c9fffaae8cb61be3c0364cc044a7a92e7e5d1e4fa182d5e05f18c2d85b34",
                      "signerSha256":  "0d69c5d80e24e587559e9c96035dab56135a4e70dad172cda1dfb3080ee690af",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -64,12 +64,12 @@
                                         "Arabic dialects: Levantine, Egyptian, Gulf",
                                         "No internet, no tracking"
                                     ],
-                     "versionName":  "1.3.9",
-                     "versionCode":  23,
+                     "versionName":  "1.4.2",
+                     "versionCode":  26,
                      "minSdk":  26,
-                     "sizeBytes":  12734328,
-                     "apkUrl":  "https://dl.amanlabs.app/KalamBoard-1.3.9.apk",
-                     "sha256":  "ba58a06bf6590fce0d1bba2dd3aecb33f02345e81df0af31cb39f44982d10240",
+                     "sizeBytes":  12736624,
+                     "apkUrl":  "https://dl.amanlabs.app/KalamBoard-1.4.2.apk",
+                     "sha256":  "5d64fbfad6def3546cbc361292bb87aa5d8f9d38e92c4e444dc9e8d796977aa8",
                      "signerSha256":  "f1198e0608e7997a604f784ff8c83a788863b60033c38ce8b050c6df9577c9bb",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -171,12 +171,12 @@
                                         "Direct pairing code when discovery fails",
                                         "Sends files, folders, and text"
                                     ],
-                     "versionName":  "0.2.10",
-                     "versionCode":  5012,
+                     "versionName":  "0.2.11",
+                     "versionCode":  5013,
                      "minSdk":  21,
-                     "sizeBytes":  142875907,
-                     "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10.apk",
-                     "sha256":  "6ee9b5570157969d73a457443fab9244b55f44bdcc7fdeee494f818436fc370d",
+                     "sizeBytes":  142892291,
+                     "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.11.apk",
+                     "sha256":  "3485513945f39043056e2416780d4cb8047e7c6450374decf4d5ce122e9b0321",
                      "signerSha256":  "262ab08c3616f8621271eedb04c986a5cd11c0789d5dde66d397ad70b940bea8",
                      "changelogAr":  "",
                      "flavor":  "",
@@ -187,18 +187,18 @@
                      "hidden":  false,
                      "abiApks":  {
                                      "arm64-v8a":  {
-                                                       "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10-arm64-v8a.apk",
-                                                       "sha256":  "76bc9bc3edc1003726d78c4a6d98ac8bcb3d94cd4ab7ac06feed161c358a2f4b",
+                                                       "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.11-arm64-v8a.apk",
+                                                       "sha256":  "4bac3838bc85252af0de4911176fe3c22a01f97a8169dc8f755204439c65dda7",
                                                        "sizeBytes":  53450739
                                                    },
                                      "armeabi-v7a":  {
-                                                         "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10-armeabi-v7a.apk",
-                                                         "sha256":  "a83cc96d2e3c0bf4595aa401a53ccca87c89eff6abd91c18f9749e35365aec3c",
-                                                         "sizeBytes":  44536423
+                                                         "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.11-armeabi-v7a.apk",
+                                                         "sha256":  "12abd9a36fc2a0bfbb6f35cc44cbcfce4abe761a59c2f8a58557673080ba90e1",
+                                                         "sizeBytes":  44552807
                                                      },
                                      "x86_64":  {
-                                                    "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.10-x86_64.apk",
-                                                    "sha256":  "0a0cd278cff680c9a24fe3f832fe77056715f26fcc6e2da1d14f600ab05f0d47",
+                                                    "apkUrl":  "https://dl.amanlabs.app/jisr-0.2.11-x86_64.apk",
+                                                    "sha256":  "039386ddf4f6b5c66a0dc8e3667d983b852cd913000a71ccd7a3c97b4d0f26ba",
                                                     "sizeBytes":  56793067
                                                 }
                                  }
@@ -223,12 +223,12 @@
                                         "Reports and charts",
                                         "All data local and encrypted"
                                     ],
-                     "versionName":  "0.2.14-alpha",
-                     "versionCode":  23,
+                     "versionName":  "0.2.17-alpha",
+                     "versionCode":  26,
                      "minSdk":  24,
-                     "sizeBytes":  2964863,
-                     "apkUrl":  "https://dl.amanlabs.app/jezdan-0.2.14-alpha.apk",
-                     "sha256":  "e6fd2ed1b50a72d66fa9d7973b77e9273d8088986f2039929df8e5d16b5724d3",
+                     "sizeBytes":  3006363,
+                     "apkUrl":  "https://dl.amanlabs.app/jezdan-0.2.17-alpha.apk",
+                     "sha256":  "84783af3080d46a73a09b863a68662fb494db445b9a534453114b71ed5857471",
                      "signerSha256":  "93f651f1a627de762bb34490df057f4753cfa861c016958076c3ebd8b63ec9b2",
                      "changelogAr":  "",
                      "flavor":  "",
