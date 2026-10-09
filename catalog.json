@@ -236,7 +236,7 @@
       "postInstallHint": "",
       "index": 11,
       "accentHex": "#97C98B",
-      "hidden": true
+      "hidden": false
     },
     {
       "packageName": "org.amanlabs.album",
