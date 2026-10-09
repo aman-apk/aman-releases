@@ -360,7 +360,7 @@
       "postInstallHint": "",
       "index": 12,
       "accentHex": "#7A4A72",
-      "hidden": true
+      "hidden": false
     },
     {
       "packageName": "org.amanlabs.hisn",
